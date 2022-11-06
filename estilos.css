@@ -1,0 +1,22 @@
+*{
+    font-family: 'Oswald', sans-serif;
+}
+
+.card-img-top{
+    border-style:double;
+    height: 200px;
+}
+
+.card-body{
+    border-style:double;
+    height:210px;  
+}
+
+p{
+    text-align: justify;
+    font-weight: lighter;
+}
+
+h6{
+    font-weight: lighter;
+}
